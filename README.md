@@ -23,8 +23,6 @@
 
 </div>
 
----
-
 <details open>
 <summary><b>🧠 &nbsp;Languages</b></summary>
 <br/>
