@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="width:75%">
   <img src="./janyel-banner.svg" width="900" alt="Janyel Lima" />
 </div>
 <div align="center">
