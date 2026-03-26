@@ -1,4 +1,4 @@
-![header](https://svg-banners.vercel.app/api?type=neo&text1=Janyel%20Lima&text2=🚀%20building%20real%2C%20scalable%20%26%20well-structured%20systems&width=900&height=150&color1=7C3AED&color2=9d4edd)
+![header](https://svg-banners.vercel.app/api?type=luminance&text1=Janyel%20Lima&text2=building%20real%20scalable%20systems&width=900&height=120)
 
 <div align="center">
 
