@@ -15,6 +15,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+<div align="center">
+
+---
+
+## 🖥️ Tech Stack
+
+</div>
+
+---
 
 <details open>
 <summary><b>🧠 &nbsp;Languages</b></summary>
@@ -109,6 +118,14 @@
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </details>
+
+---
+
+<div align="center">
+
+<sub>Made with ❤️ · Always learning, always building</sub>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
