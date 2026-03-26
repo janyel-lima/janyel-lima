@@ -1,23 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Janyel%20Lima&fontSize=70&fontColor=e2e8f0&animation=fadeIn&fontAlignY=42&desc=Building%20real%2C%20scalable%20%26%20well-structured%20systems&descAlignY=65&descSize=17&descColor=94a3b8)
 
-<div align="center">
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&random=false&width=620&lines=From+frontend+to+backend...;Architecture+%26+Infrastructure;I+don%27t+follow+rules+without+questioning+them.)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/janyel-lima)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janyel.lima2809@outlook.com)
 
-</div>
-
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<br/>
-
-<details open>
-<summary><b>🧠 Languages</b></summary>
-<br/>
+## 🧠 Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,11 +15,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
+## 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,41 +27,25 @@
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend &amp; Runtime</b></summary>
-<br/>
+## ⚙️ Backend and Runtime
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🗄️ Databases &amp; Cloud</b></summary>
-<br/>
+## 🗄️ Databases and Cloud
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🐳 DevOps &amp; Infra</b></summary>
-<br/>
+## 🐳 DevOps and Infra
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-</details>
-
-<details open>
-<summary><b>🛠️ Tools &amp; Workflow</b></summary>
-<br/>
+## 🛠️ Tools and Workflow
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -87,65 +57,34 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>🎨 Design &amp; Media</b></summary>
-<br/>
+## 🖌️ Design and Media
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
-</details>
-
-<details open>
-<summary><b>📚 Others</b></summary>
-<br/>
+## 📚 Others
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-</details>
-
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<br/>
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=janyel-lima&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;text_color=94a3b8&amp;icon_color=7c3aed" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janyel-lima&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;text_color=94a3b8" /></td>
-  </tr>
-</table>
+![stats](https://github-readme-stats.vercel.app/api?username=janyel-lima&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=7c3aed&text_color=94a3b8&icon_color=7c3aed)
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janyel-lima&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=94a3b8)
 
 ![streak](https://nirzak-streak-stats.vercel.app/?user=janyel-lima&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0)
 
-</div>
-
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<br/>
-
-<div align="center">
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=janyel-lima&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
+![trophies](https://github-profile-trophy.vercel.app/?username=janyel-lima&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
 
-</div>
-
-<br/>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=janyel-lima&icon=6&color=7)](https://visitcount.itsvg.in)
-
-</div>
+[![visits](https://visitcount.itsvg.in/api?id=janyel-lima&icon=6&color=7)](https://visitcount.itsvg.in)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer)
