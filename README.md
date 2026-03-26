@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a1a2e,100:16213e&amp;height=220&amp;section=header&amp;text=Janyel%20Lima&amp;fontSize=70&amp;fontColor=e2e8f0&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Building%20real%2C%20scalable%20%26%20well-structured%20systems&amp;descAlignY=65&amp;descSize=17&amp;descColor=94a3b8" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Janyel%20Lima&fontSize=70&fontColor=e2e8f0&animation=fadeIn&fontAlignY=42&desc=Building%20real%2C%20scalable%20%26%20well-structured%20systems&descAlignY=65&descSize=17&descColor=94a3b8)
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&random=false&width=620&lines=From+frontend+to+backend...;Architecture+%26+Infrastructure;I+don't+follow+rules+without+questioning+them." alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&random=false&width=620&lines=From+frontend+to+backend...;Architecture+%26+Infrastructure;I+don%27t+follow+rules+without+questioning+them.)
 
 <br/>
 
@@ -11,12 +11,12 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <br/>
 
 <details open>
-<summary><b>🧠 &nbsp;Languages</b></summary>
+<summary><b>🧠 Languages</b></summary>
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,7 +28,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 &nbsp;Frontend</b></summary>
+<summary><b>🎨 Frontend</b></summary>
 <br/>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,7 +44,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ &nbsp;Backend &amp; Runtime</b></summary>
+<summary><b>⚙️ Backend &amp; Runtime</b></summary>
 <br/>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -53,7 +53,7 @@
 </details>
 
 <details open>
-<summary><b>🗄️ &nbsp;Databases &amp; Cloud</b></summary>
+<summary><b>🗄️ Databases &amp; Cloud</b></summary>
 <br/>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,7 +63,7 @@
 </details>
 
 <details open>
-<summary><b>🐳 &nbsp;DevOps &amp; Infra</b></summary>
+<summary><b>🐳 DevOps &amp; Infra</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -74,7 +74,7 @@
 </details>
 
 <details open>
-<summary><b>🛠️ &nbsp;Tools &amp; Workflow</b></summary>
+<summary><b>🛠️ Tools &amp; Workflow</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -90,7 +90,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 &nbsp;Design &amp; Media</b></summary>
+<summary><b>🎨 Design &amp; Media</b></summary>
 <br/>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -100,7 +100,7 @@
 </details>
 
 <details open>
-<summary><b>📚 &nbsp;Others</b></summary>
+<summary><b>📚 Others</b></summary>
 <br/>
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -109,7 +109,7 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <br/>
 
@@ -119,22 +119,16 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=janyel-lima&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=7c3aed&text_color=94a3b8&icon_color=7c3aed" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janyel-lima&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=0d1117&title_color=7c3aed&text_color=94a3b8" />
-    </td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=janyel-lima&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;text_color=94a3b8&amp;icon_color=7c3aed" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janyel-lima&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact&amp;bg_color=0d1117&amp;title_color=7c3aed&amp;text_color=94a3b8" /></td>
   </tr>
 </table>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=janyel-lima&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+![streak](https://nirzak-streak-stats.vercel.app/?user=janyel-lima&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0)
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <br/>
 
@@ -154,4 +148,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:1a1a2e,100:0d0d0d&amp;height=120&amp;section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer)
