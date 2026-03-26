@@ -115,14 +115,14 @@
 
 </details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br/>
 
 <div align="center" style="width:75%!important">
   <img src="./role-banner.svg" width="900" alt="Fullstack Developer" />
 </div>
-
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 <div align="center">
 
 ## 📊 GitHub Stats
