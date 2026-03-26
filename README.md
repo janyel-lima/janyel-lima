@@ -1,5 +1,6 @@
-![header](./janyel-banner.svg)
-
+<div align="center">
+  <img src="./janyel-banner.svg" width="900" alt="Janyel Lima" />
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&random=false&width=620&lines=From+frontend+to+backend...;Architecture+%26+Infrastructure;I+don't+follow+rules+without+questioning+them." alt="Typing SVG" />
