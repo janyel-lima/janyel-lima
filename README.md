@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=220&section=header&text=Janyel%20Lima&fontSize=70&fontColor=e2e8f0&animation=fadeIn&fontAlignY=42&desc=Building%20real%2C%20scalable%20%26%20well-structured%20systems&descAlignY=65&descSize=17&descColor=94a3b8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a1a2e,100:16213e&amp;height=220&amp;section=header&amp;text=Janyel%20Lima&amp;fontSize=70&amp;fontColor=e2e8f0&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Building%20real%2C%20scalable%20%26%20well-structured%20systems&amp;descAlignY=65&amp;descSize=17&amp;descColor=94a3b8" width="100%"/>
 
 <div align="center">
 
@@ -154,4 +154,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:1a1a2e,100:0d0d0d&amp;height=120&amp;section=footer" width="100%"/>
