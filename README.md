@@ -44,7 +44,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ &nbsp;Backend & Runtime</b></summary>
+<summary><b>⚙️ &nbsp;Backend &amp; Runtime</b></summary>
 <br/>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -53,7 +53,7 @@
 </details>
 
 <details open>
-<summary><b>🗄️ &nbsp;Databases & Cloud</b></summary>
+<summary><b>🗄️ &nbsp;Databases &amp; Cloud</b></summary>
 <br/>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,7 +63,7 @@
 </details>
 
 <details open>
-<summary><b>🐳 &nbsp;DevOps & Infra</b></summary>
+<summary><b>🐳 &nbsp;DevOps &amp; Infra</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -74,7 +74,7 @@
 </details>
 
 <details open>
-<summary><b>🛠️ &nbsp;Tools & Workflow</b></summary>
+<summary><b>🛠️ &nbsp;Tools &amp; Workflow</b></summary>
 <br/>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -90,7 +90,7 @@
 </details>
 
 <details open>
-<summary><b>🎨 &nbsp;Design & Media</b></summary>
+<summary><b>🎨 &nbsp;Design &amp; Media</b></summary>
 <br/>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
