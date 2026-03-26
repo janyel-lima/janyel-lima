@@ -162,4 +162,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:16213e,50:1a1a2e,100:0d0d0d&amp;height=120&amp;section=footer" width="100%"/>
+<div align="center" style="width:75%!important">
+  <img src="./usw-banner.svg" width="900" alt="Janyel Lima" />
+</div>
