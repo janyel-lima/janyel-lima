@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d0d0d,50:1a1a2e,100:16213e&amp;height=220&amp;section=header&amp;text=Janyel%20Lima&amp;fontSize=70&amp;fontColor=e2e8f0&amp;animation=fadeIn&amp;fontAlignY=42&amp;desc=Building%20real%2C%20scalable%20%26%20well-structured%20systems&amp;descAlignY=65&amp;descSize=17&amp;descColor=94a3b8" width="100%"/>
+![header](https://svg-banners.vercel.app/api?type=glitch&text1=Janyel%20Lima&width=900&height=200)
 
 <div align="center">
 
