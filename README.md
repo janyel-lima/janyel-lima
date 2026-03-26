@@ -17,8 +17,6 @@
 <br/>
 <div align="center">
 
----
-
 ## 🖥️ Tech Stack
 
 </div>
@@ -117,17 +115,13 @@
 
 </details>
 
----
-
-<div align="center">
-
-<sub>Made with ❤️ · Always learning, always building</sub>
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+
+<div align="center" style="width:75%!important">
+  <img src="./role-banner.svg" width="900" alt="Fullstack Developer" />
+</div>
 
 <div align="center">
 
@@ -143,8 +137,6 @@
     </td>
   </tr>
 </table>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=janyel-lima&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
 
 </div>
 

@@ -1,0 +1,307 @@
+<svg width="900" height="225" viewBox="0 0 900 225" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00b6b9" stroke-width="0.28"/>
+    </pattern>
+    <radialGradient id="cg" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#00e9ea" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#00242d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cgL" cx="0%" cy="50%" r="38%">
+      <stop offset="0%" stop-color="#2596be" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#2596be" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cgR" cx="100%" cy="50%" r="38%">
+      <stop offset="0%" stop-color="#2596be" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#2596be" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00e9ea" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#00e9ea" stop-opacity="0.7"/>
+      <stop offset="50%"  stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="80%"  stop-color="#00e9ea" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#00e9ea" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="0" y="55" width="900" height="18"/></clipPath>
+    <clipPath id="c2"><rect x="0" y="77" width="900" height="16"/></clipPath>
+    <clipPath id="c3"><rect x="0" y="96" width="900" height="18"/></clipPath>
+    <clipPath id="bnd"><rect x="0" y="0" width="900" height="225"/></clipPath>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&amp;family=Rajdhani:wght@700&amp;display=swap');
+
+    /* ── Name glitch ── */
+    @keyframes gm  {0%,82%,100%{transform:translateX(0)}84%{transform:translateX(-7px)}86%{transform:translateX(5px)}88%{transform:translateX(-3px)}90%{transform:translateX(4px)}92%{transform:translateX(-1px)}94%{transform:translateX(0)}}
+    @keyframes gs1 {0%,82%,100%{transform:translateX(0);opacity:0}84%{transform:translateX(11px);opacity:1}86%{transform:translateX(-9px);opacity:.85}88%{transform:translateX(7px);opacity:.9}90%{transform:translateX(-5px);opacity:.7}92%{transform:translateX(3px);opacity:.5}94%{transform:translateX(0);opacity:0}}
+    @keyframes gs2 {0%,82%,100%{transform:translateX(0);opacity:0}85%{transform:translateX(-14px);opacity:.8}87%{transform:translateX(10px);opacity:.6}89%{transform:translateX(-8px);opacity:.9}91%{transform:translateX(6px);opacity:.5}93%{transform:translateX(-2px);opacity:.3}95%{transform:translateX(0);opacity:0}}
+    @keyframes gs3 {0%,82%,100%{transform:translateX(0);opacity:0}83.5%{transform:translateX(9px);opacity:.7}85.5%{transform:translateX(-7px);opacity:.9}87.5%{transform:translateX(5px);opacity:.6}89.5%{transform:translateX(-3px);opacity:.8}91.5%{transform:translateX(1px);opacity:.4}93.5%{transform:translateX(0);opacity:0}}
+    @keyframes fl  {0%,93%,100%{opacity:1}95%{opacity:.55}96%{opacity:1}98%{opacity:.3}99%{opacity:.9}}
+
+    /* ── Dots / borders / scan ── */
+    @keyframes dp  {0%,100%{opacity:.15}50%{opacity:.9}}
+    @keyframes bg  {0%,100%{stroke-opacity:.45}50%{stroke-opacity:1}}
+    @keyframes sc  {0%{transform:translateY(-5px);opacity:0}5%{opacity:.5}95%{opacity:.5}100%{transform:translateY(230px);opacity:0}}
+
+    /* ── UNLIMITED SOFTWARE WORKS ── */
+    @keyframes usw {
+      0%,100%{fill:#004e55;letter-spacing:7px}
+      25%    {fill:#00b6b9;letter-spacing:7.5px}
+      48%    {fill:#00e9ea;letter-spacing:9px;transform:translateX(0)}
+      50%    {fill:#00e9ea;letter-spacing:9px;transform:translateX(-1.5px)}
+      52%    {fill:#00e9ea;letter-spacing:9px;transform:translateX(1.5px)}
+      54%    {fill:#00e9ea;letter-spacing:9px;transform:translateX(0)}
+      75%    {fill:#00b6b9;letter-spacing:7.5px}
+    }
+
+    /* ── core::works — RAILGUN DISCHARGE ── */
+    @keyframes rg {
+      0%,15%{opacity:.28;letter-spacing:8px;fill:#004e55}
+      40%{opacity:.55;letter-spacing:5px;fill:#00b6b9}
+      58%{opacity:.80;letter-spacing:2px;fill:#00b6b9}
+      63%{opacity:.95;letter-spacing:0px;fill:#00e9ea}
+      67%{opacity:1;letter-spacing:22px;fill:#ffffff}
+      71%{opacity:.88;letter-spacing:16px;fill:#00e9ea}
+      76%{opacity:.68;letter-spacing:12px;fill:#00b6b9}
+      85%{opacity:.42;letter-spacing:9px;fill:#2596be}
+      100%{opacity:.28;letter-spacing:8px;fill:#004e55}
+    }
+
+    /* ── Railgun beam projectile ── */
+    @keyframes rb {
+      0%,60%{transform:translateX(-220px);opacity:0}
+      64%{transform:translateX(-220px);opacity:0}
+      65%{transform:translateX(-220px);opacity:1}
+      68%{transform:translateX(1100px);opacity:1}
+      69%{transform:translateX(1100px);opacity:0}
+      100%{transform:translateX(1100px);opacity:0}
+    }
+
+    /* ══════════════════════════════════════════
+       EM CAPACITOR NODE  —  charge/fire cycle
+       synced to 9s railgun timeline (delay 1.2s)
+    ══════════════════════════════════════════ */
+
+    /* outer octagon brightness */
+    @keyframes nch {
+      0%,15%{opacity:.22}
+      40%{opacity:.42}
+      63%{opacity:.82}
+      67%{opacity:1}
+      72%{opacity:.60}
+      85%{opacity:.32}
+      100%{opacity:.22}
+    }
+    /* white fire-flash overlay on octagon */
+    @keyframes nfire {
+      0%,64%,73%,100%{opacity:0}
+      67%{opacity:.95}
+      70%{opacity:.3}
+      72%{opacity:0}
+    }
+    /* spinning dashed diamond ring */
+    @keyframes spin {
+      0%{transform:rotate(0deg)}
+      100%{transform:rotate(360deg)}
+    }
+    /* ring brightness with charge */
+    @keyframes nring {
+      0%,15%{opacity:.30}
+      40%{opacity:.48}
+      63%{opacity:.80}
+      67%{opacity:1}
+      72%{opacity:.55}
+      100%{opacity:.30}
+    }
+    /* cardinal spike lines — only on FIRE */
+    @keyframes spkC {
+      0%,63%,74%,100%{opacity:0;stroke-width:2}
+      67%{opacity:1;stroke-width:2.5}
+      71%{opacity:0;stroke-width:1.5}
+    }
+    /* diagonal spike lines */
+    @keyframes spkD {
+      0%,63%,74%,100%{opacity:0;stroke-width:1.2}
+      67%{opacity:.85;stroke-width:1.8}
+      71%{opacity:0;stroke-width:1}
+    }
+    /* core diamond fill */
+    @keyframes ncore {
+      0%,15%{opacity:.35}
+      40%{opacity:.55}
+      63%{opacity:.85}
+      67%{opacity:1}
+      72%{opacity:.68}
+      85%{opacity:.45}
+      100%{opacity:.35}
+    }
+    /* center dot pulse */
+    @keyframes cdot {
+      0%,100%{opacity:.7;r:2.5px}
+      67%{opacity:1;r:4px}
+      72%{opacity:.8;r:2.5px}
+    }
+
+    .tm  {animation:gm 8s infinite,fl 10s infinite}
+    .ts1 {animation:gs1 8s infinite}
+    .ts2 {animation:gs2 8s infinite .06s}
+    .ts3 {animation:gs3 8s infinite .12s}
+    .sl  {animation:sc 6s linear infinite}
+    .d1{animation:dp 2.4s infinite 0s}   .d2{animation:dp 2.4s infinite .3s}
+    .d3{animation:dp 2.4s infinite .6s}  .d4{animation:dp 2.4s infinite .9s}
+    .d5{animation:dp 2.4s infinite .9s}  .d6{animation:dp 2.4s infinite 1.2s}
+    .d7{animation:dp 2.4s infinite 1.5s} .d8{animation:dp 2.4s infinite 1.8s}
+    .bt {animation:bg 3.5s ease-in-out infinite}
+    .bb {animation:bg 3.5s ease-in-out infinite 1.75s}
+    .usw{animation:usw 5s ease-in-out infinite}
+    .cw {animation:rg 9s ease-in-out infinite 1.2s}
+    .rb {animation:rb 9s linear infinite 1.2s}
+
+    /* node classes — both sides share same timing */
+    .noct  {animation:nch   9s ease-in-out infinite 1.2s}
+    .noctF {animation:nfire 9s ease-in-out infinite 1.2s}
+    .nring {animation:nring 9s ease-in-out infinite 1.2s}
+    .spkC  {animation:spkC  9s ease-in-out infinite 1.2s}
+    .spkD  {animation:spkD  9s ease-in-out infinite 1.2s}
+    .ncore {animation:ncore 9s ease-in-out infinite 1.2s}
+    .cdot  {animation:cdot  9s ease-in-out infinite 1.2s}
+  </style>
+
+  <!-- ── Background ── -->
+  <rect width="900" height="225" fill="#00242d"/>
+  <rect width="900" height="225" fill="url(#grid)" opacity="0.20"/>
+  <rect width="900" height="225" fill="url(#cg)"/>
+  <rect width="900" height="225" fill="url(#cgL)"/>
+  <rect width="900" height="225" fill="url(#cgR)"/>
+
+  <!-- ── Borders ── -->
+  <line x1="0" y1="1"   x2="900" y2="1"   stroke="#00b6b9" stroke-width="1.5" class="bt"/>
+  <line x1="0" y1="224" x2="900" y2="224" stroke="#00b6b9" stroke-width="1.5" class="bb"/>
+
+  <!-- ── Corner brackets ── -->
+  <path d="M0 0 L55 0 M0 0 L0 55"              stroke="#00b6b9" stroke-width="1.5" fill="none" opacity="0.85"/>
+  <path d="M900 0 L845 0 M900 0 L900 55"        stroke="#00b6b9" stroke-width="1.5" fill="none" opacity="0.85"/>
+  <path d="M0 225 L55 225 M0 225 L0 170"        stroke="#00b6b9" stroke-width="1.5" fill="none" opacity="0.85"/>
+  <path d="M900 225 L845 225 M900 225 L900 170" stroke="#00b6b9" stroke-width="1.5" fill="none" opacity="0.85"/>
+  <path d="M6 6 L25 6 M6 6 L6 25"              stroke="#00e9ea" stroke-width="0.7" fill="none" opacity="0.5"/>
+  <path d="M894 6 L875 6 M894 6 L894 25"        stroke="#00e9ea" stroke-width="0.7" fill="none" opacity="0.5"/>
+  <path d="M6 219 L25 219 M6 219 L6 200"        stroke="#00e9ea" stroke-width="0.7" fill="none" opacity="0.5"/>
+  <path d="M894 219 L875 219 M894 219 L894 200" stroke="#00e9ea" stroke-width="0.7" fill="none" opacity="0.5"/>
+
+  <!-- ═══════════════════════════════════
+       LEFT EM CAPACITOR NODE  (72, 108)
+  ═══════════════════════════════════ -->
+  <g transform="translate(72,108)">
+    <!-- Outer octagon — charge glow -->
+    <polygon points="21,8.7 8.7,21 -8.7,21 -21,8.7 -21,-8.7 -8.7,-21 8.7,-21 21,-8.7"
+      fill="none" stroke="#00b6b9" stroke-width="1.2" class="noct"/>
+    <!-- White fire-flash overlay -->
+    <polygon points="21,8.7 8.7,21 -8.7,21 -21,8.7 -21,-8.7 -8.7,-21 8.7,-21 21,-8.7"
+      fill="none" stroke="#ffffff" stroke-width="2.2" class="noctF"/>
+    <!-- Spinning dashed diamond ring -->
+    <g class="nring">
+      <rect x="-13.5" y="-13.5" width="27" height="27" rx="1"
+        fill="none" stroke="#00b6b9" stroke-width="0.9" stroke-dasharray="4,3">
+        <animateTransform attributeName="transform" type="rotate"
+          from="45" to="405" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <!-- Cardinal spike lines (fire only) -->
+    <line x1="24" y1="0"  x2="34" y2="0"  stroke="#00e9ea" class="spkC"/>
+    <line x1="-24" y1="0" x2="-34" y2="0" stroke="#00e9ea" class="spkC"/>
+    <line x1="0" y1="24"  x2="0" y2="34"  stroke="#00e9ea" class="spkC"/>
+    <line x1="0" y1="-24" x2="0" y2="-34" stroke="#00e9ea" class="spkC"/>
+    <!-- Diagonal spike lines (fire only) -->
+    <line x1="15" y1="-15" x2="20" y2="-20" stroke="#00b6b9" class="spkD"/>
+    <line x1="-15" y1="-15" x2="-20" y2="-20" stroke="#00b6b9" class="spkD"/>
+    <line x1="15" y1="15"  x2="20" y2="20"   stroke="#00b6b9" class="spkD"/>
+    <line x1="-15" y1="15" x2="-20" y2="20"  stroke="#00b6b9" class="spkD"/>
+    <!-- Core diamond -->
+    <rect x="-7" y="-7" width="14" height="14"
+      fill="#001a20" stroke="#00b6b9" stroke-width="1.4"
+      transform="rotate(45)" class="ncore"/>
+    <!-- Center dot -->
+    <circle r="2.5" fill="#00e9ea" class="cdot"/>
+  </g>
+
+  <!-- ═══════════════════════════════════
+       RIGHT EM CAPACITOR NODE  (828, 108)
+  ═══════════════════════════════════ -->
+  <g transform="translate(828,108)">
+    <!-- Outer octagon -->
+    <polygon points="21,8.7 8.7,21 -8.7,21 -21,8.7 -21,-8.7 -8.7,-21 8.7,-21 21,-8.7"
+      fill="none" stroke="#00b6b9" stroke-width="1.2" class="noct"/>
+    <!-- White fire-flash overlay -->
+    <polygon points="21,8.7 8.7,21 -8.7,21 -21,8.7 -21,-8.7 -8.7,-21 8.7,-21 21,-8.7"
+      fill="none" stroke="#ffffff" stroke-width="2.2" class="noctF"/>
+    <!-- Spinning dashed diamond ring -->
+    <g class="nring">
+      <rect x="-13.5" y="-13.5" width="27" height="27" rx="1"
+        fill="none" stroke="#00b6b9" stroke-width="0.9" stroke-dasharray="4,3">
+        <animateTransform attributeName="transform" type="rotate"
+          from="45" to="405" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <!-- Cardinal spike lines (fire only) -->
+    <line x1="24" y1="0"  x2="34" y2="0"  stroke="#00e9ea" class="spkC"/>
+    <line x1="-24" y1="0" x2="-34" y2="0" stroke="#00e9ea" class="spkC"/>
+    <line x1="0" y1="24"  x2="0" y2="34"  stroke="#00e9ea" class="spkC"/>
+    <line x1="0" y1="-24" x2="0" y2="-34" stroke="#00e9ea" class="spkC"/>
+    <!-- Diagonal spike lines (fire only) -->
+    <line x1="15" y1="-15" x2="20" y2="-20" stroke="#00b6b9" class="spkD"/>
+    <line x1="-15" y1="-15" x2="-20" y2="-20" stroke="#00b6b9" class="spkD"/>
+    <line x1="15" y1="15"  x2="20" y2="20"   stroke="#00b6b9" class="spkD"/>
+    <line x1="-15" y1="15" x2="-20" y2="20"  stroke="#00b6b9" class="spkD"/>
+    <!-- Core diamond -->
+    <rect x="-7" y="-7" width="14" height="14"
+      fill="#001a20" stroke="#00b6b9" stroke-width="1.4"
+      transform="rotate(45)" class="ncore"/>
+    <!-- Center dot -->
+    <circle r="2.5" fill="#00e9ea" class="cdot"/>
+  </g>
+
+  <!-- ── Dot rows ── -->
+  <circle cx="120" cy="108" r="2.2" fill="#00b6b9" class="d1"/>
+  <circle cx="134" cy="108" r="2.2" fill="#00b6b9" class="d2"/>
+  <circle cx="148" cy="108" r="2.2" fill="#00b6b9" class="d3"/>
+  <circle cx="162" cy="108" r="2.2" fill="#00b6b9" class="d4"/>
+  <circle cx="738" cy="108" r="2.2" fill="#00b6b9" class="d5"/>
+  <circle cx="752" cy="108" r="2.2" fill="#00b6b9" class="d6"/>
+  <circle cx="766" cy="108" r="2.2" fill="#00b6b9" class="d7"/>
+  <circle cx="780" cy="108" r="2.2" fill="#00b6b9" class="d8"/>
+  <line x1="120" y1="96"  x2="175" y2="96"  stroke="#00b6b9" stroke-width="0.5" opacity="0.35"/>
+  <line x1="120" y1="120" x2="175" y2="120" stroke="#00b6b9" stroke-width="0.5" opacity="0.35"/>
+  <line x1="725" y1="96"  x2="780" y2="96"  stroke="#00b6b9" stroke-width="0.5" opacity="0.35"/>
+  <line x1="725" y1="120" x2="780" y2="120" stroke="#00b6b9" stroke-width="0.5" opacity="0.35"/>
+
+  <!-- ── Rail guide line ── -->
+  <line x1="0" y1="192" x2="900" y2="192" stroke="#00e9ea" stroke-width="0.35" opacity="0.18"/>
+
+  <!-- ── Railgun beam projectile ── -->
+  <g clip-path="url(#bnd)">
+    <rect x="0" y="187" width="200" height="4" fill="url(#beam)" class="rb"/>
+  </g>
+
+  <!-- ── Glitch slices ── -->
+  <g clip-path="url(#c1)">
+    <text x="450" y="117" text-anchor="middle" font-family="'Orbitron',monospace" font-size="44" font-weight="900" fill="#00e9ea" letter-spacing="3" class="ts1">FULLSTACK DEVELOPER</text>
+  </g>
+  <g clip-path="url(#c2)">
+    <text x="450" y="117" text-anchor="middle" font-family="'Orbitron',monospace" font-size="44" font-weight="900" fill="#2596be" letter-spacing="3" class="ts2">FULLSTACK DEVELOPER</text>
+  </g>
+  <g clip-path="url(#c3)">
+    <text x="450" y="117" text-anchor="middle" font-family="'Orbitron',monospace" font-size="44" font-weight="900" fill="#00b6b9" letter-spacing="3" class="ts3">FULLSTACK DEVELOPER</text>
+  </g>
+
+  <!-- ── Main title ── -->
+  <text x="450" y="117" text-anchor="middle" font-family="'Orbitron',monospace" font-size="44" font-weight="900" fill="#ffffff" letter-spacing="3" class="tm">FULLSTACK DEVELOPER</text>
+
+  <!-- ── UNLIMITED SOFTWARE WORKS ── -->
+  <text x="450" y="163" text-anchor="middle" font-family="'Rajdhani','Orbitron',monospace" font-size="12.5" font-weight="700" fill="#00b6b9" letter-spacing="7" class="usw">UNLIMITED SOFTWARE WORKS</text>
+
+  <!-- ── core::works ── -->
+  <text x="450" y="198" text-anchor="middle" font-family="'Rajdhani','Orbitron',monospace" font-size="12" font-weight="700" fill="#004e55" letter-spacing="8" class="cw">core::works</text>
+
+  <!-- ── Scan line ── -->
+  <rect width="900" height="1.5" fill="#00e9ea" opacity="0.07" class="sl" y="0"/>
+</svg>
