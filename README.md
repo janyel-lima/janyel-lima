@@ -1,4 +1,4 @@
-![header](https://svg-banners.vercel.app/api?type=glitch&text1=Janyel%20Lima&width=900&height=200)
+![header](https://svg-banners.vercel.app/api?type=luminance&text1=Janyel%20Lima&text2=building%20real%20scalable%20systems&width=900&height=120)
 
 <div align="center">
 
